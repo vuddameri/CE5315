@@ -1,2 +1,2 @@
 # CE5315
-Github Repository for CE 5315 Probabilistic Methods for Civil Engineering at Texas Tech University
+Github Repository for CE 5315 Probabilistic Methods for Civil Engineering at Texas Tech University.  I will be posting data and R scripts here in addition to other locations such as Blackboard and One Drive.  Other materials such as lecture notes and videos will still be hosted within Texas Tech or personal repositories due to copyright and other policies governing the use of such materials.    
