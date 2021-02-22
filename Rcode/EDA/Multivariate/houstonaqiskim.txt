@@ -1,0 +1,26 @@
+── Data Summary ────────────────────────
+                           Values
+Name                       apar  
+Number of rows             26280 
+Number of columns          6     
+_______________________          
+Column type frequency:           
+  numeric                  6     
+________________________         
+Group variables            None  
+
+── Variable type: numeric ─────────────────────────
+  skim_variable n_missing complete_rate   mean
+1 NOX.ts                0             1 10.4  
+2 OZONE.ts              0             1 24.9  
+3 RELH.ts               0             1 70.3  
+4 TEMP.ts               0             1 70.5  
+5 SRAD.ts               0             1  0.260
+6 WSPEED.ts             0             1  5.26 
+      sd       p0   p25     p50    p75   p100 hist 
+1 15.0    0        2.99  5.78   11.4   257.   ▇▁▁▁▁
+2 17.1    0.0124  11.8  22.8    35.3   145.   ▇▅▁▁▁
+3 18.8   11.4     56.7  74.1    86.1    98.6  ▁▂▅▆▇
+4 13.9   18.8     61.2  73.3    80.6   102.   ▁▂▅▇▂
+5  0.383  0        0     0.0102  0.442   1.62 ▇▁▁▁▁
+6  3.07   0.00795  2.92  4.92    7.29   21.5  ▇▇▂▁▁

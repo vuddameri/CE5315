@@ -1,0 +1,16 @@
+── Data Summary ────────────────────────
+                           Values
+Name                       shear 
+Number of rows             20    
+Number of columns          1     
+_______________________          
+Column type frequency:           
+  numeric                  1     
+________________________         
+Group variables            None  
+
+── Variable type: numeric ──────────────────────
+  skim_variable n_missing complete_rate  mean
+1 data                  0             1 0.656
+     sd    p0   p25   p50   p75  p100 hist 
+1 0.410  0.12 0.442  0.52  0.78  1.73 ▅▇▃▁▂
